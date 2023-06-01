@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Sample
-permalink: /Sample/
+permalink: /sample/
 ---
