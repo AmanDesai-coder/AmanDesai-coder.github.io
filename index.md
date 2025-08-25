@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Home
-order: 1
+title: About
+permalink: /about/
 ---
 
-Hello! My name is Aman Desai and I am an undergraduate computer science major attending UC Berkeley. I am really interested in the applications of computational methods and data analysis techniques to analyze economic and social impact data.
+Thank you for visiting my website! My name is Aman Desai and I am a Post-Baccalaureate Intern at the Center for Nonlinear Studies (CNLS) at Los Alamos National Laboratory. Broadly speaking, I am interested in understanding how global behavior emerges from local interactions in complex dynamical systems.
 
+![]( /images/Aman.jpg)
