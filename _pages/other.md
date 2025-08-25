@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Other
+title: Other Fun Stuff
 permalink: /other/
 ---
